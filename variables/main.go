@@ -7,7 +7,7 @@ func main() {
 	var isAdult bool = true
 	var age int = 30
 
-	name1 := "golang"
+	name1 := "golangdd"
 
 	fmt.Println(name, isAdult, age, name1)
 }
